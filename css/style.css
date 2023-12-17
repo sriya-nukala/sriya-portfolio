@@ -1,0 +1,46 @@
+body{
+    background-color: #161A30;
+}
+#header{
+    background-color: #161A30;
+    
+}
+.title{
+    pointer-events: none;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#home{
+    background-color: #161A30;
+}
+#work{
+    background-color: #161A30;
+}
+#footer{
+    background-color: #161A30;
+}
+#contact{
+    background-color: #161A30;
+}
+#skills{
+    background-color: #161A30;
+}
+#experience{
+    background-color: #161A30;
+}
+.card-style{
+    background-color: #F0ECE5 !important;
+    
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
+}
+.lstyle{
+    list-style: none;
+}
+
+
